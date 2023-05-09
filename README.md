@@ -1,4 +1,3 @@
 # Bio-Pesticide-Game
-Game playable at this current page
-https://web.eecs.utk.edu/~nyy212/biogame/index.html
-
+soyboy_webpage directory has info on hosting the site
+Unity folder contains the unity project
